@@ -1,0 +1,22 @@
+.container {
+    width: 20%;
+    margin: 5px;
+}
+
+.redCard {
+    box-shadow: 0 4px 8px 0 rgba(241, 235, 235, 0.5);
+    background-color: rgb(252, 150, 150);
+}
+
+.blueCard {
+    box-shadow: 0 4px 8px 0 rgba(241, 235, 235, 0.5);
+    background-color: rgb(125, 164, 248);
+}
+
+.padding20 {
+    padding: 20px;
+}
+
+.padding10 {
+    padding: 10px;
+}
